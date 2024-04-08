@@ -3,7 +3,7 @@ import './App.scss';
 
 const App = () =>
 	<div className="App">
-		Ready to start.
-	</div>;
+		Ready to start. hello sunny
+	</div> ;
 
 export default App;
